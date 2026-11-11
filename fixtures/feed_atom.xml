@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sample Atom Journal</title>
+  <link href="https://example.com/journal"/>
+  <updated>2026-11-05T09:00:00Z</updated>
+  <entry>
+    <title>Hashes Beat Screenshots</title>
+    <link href="https://example.com/journal/hashes-beat-screenshots"/>
+    <updated>2026-11-05T09:00:00Z</updated>
+    <summary>Store a hash of normalised text and diffs become one line.</summary>
+  </entry>
+</feed>

@@ -1,0 +1,9 @@
+# Fixture robots.txt for offline demos and tests
+User-agent: *
+Allow: /blog/
+Disallow: /admin/
+Disallow: /private/
+Allow: /private/public/
+
+User-agent: BadBot
+Disallow: /
